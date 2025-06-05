@@ -12,10 +12,10 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/arraydeveloper/Baileys",
+  "homepage": "https://github.com/arraynothere/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/arraydeveloper/Baileys.git"
+    "url": "git+ssh://git@github.com/arraynothere/Baileys.git"
   },
   "license": "MIT",
   "author": "Array",
